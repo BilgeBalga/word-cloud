@@ -1,4 +1,4 @@
-# Word Cloud Generator ☁️
+# ☁️ Word Cloud Generator ☁️
 
 This project allows users to create word clouds from uploaded text files. Users can customize their word clouds by selecting their preferred languages and icons.
 
